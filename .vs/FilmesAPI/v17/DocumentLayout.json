@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Estudos\\API\\FilmesAPI\\",
+  "WorkspaceRootPath": "D:\\Estudos\\API\\filmesAPI\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{5AB909D8-910E-46CA-9551-EC8F5C9B3EEE}|FilmesAPI\\FilmesAPI.csproj|d:\\estudos\\api\\filmesapi\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,116 +51,108 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FilmesAPI",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+              "Title": "FilmesAPI.csproj",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\FilmesAPI.csproj",
               "RelativeDocumentMoniker": "FilmesAPI\\FilmesAPI.csproj",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\FilmesAPI.csproj",
               "RelativeToolTip": "FilmesAPI\\FilmesAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-20T20:36:59.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T20:36:59.604Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "FilmesAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "FilmesAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-20T20:14:58.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T20:14:58.856Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ReadFilmeDto.cs",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Dtos\\ReadFilmeDto.cs",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Dtos\\ReadFilmeDto.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Dtos\\ReadFilmeDto.cs",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Dtos\\ReadFilmeDto.cs",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Dtos\\ReadFilmeDto.cs",
               "RelativeToolTip": "FilmesAPI\\Dtos\\ReadFilmeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T19:56:50.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T19:56:50.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UpdateFilmeDto.cs",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Dtos\\UpdateFilmeDto.cs",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Dtos\\UpdateFilmeDto.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Dtos\\UpdateFilmeDto.cs",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Dtos\\UpdateFilmeDto.cs",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Dtos\\UpdateFilmeDto.cs",
               "RelativeToolTip": "FilmesAPI\\Dtos\\UpdateFilmeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T19:31:19.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T19:31:19.262Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FilmeProfile.cs",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Profile\\FilmeProfile.cs",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Profile\\FilmeProfile.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Profile\\FilmeProfile.cs",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Profile\\FilmeProfile.cs",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Profile\\FilmeProfile.cs",
               "RelativeToolTip": "FilmesAPI\\Profile\\FilmeProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T18:47:05.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T18:47:05.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Program.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Program.cs",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Program.cs",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Program.cs",
               "RelativeToolTip": "FilmesAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T18:45:19.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T18:45:19.679Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CreateFilmeDto.cs",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Dtos\\CreateFilmeDto.cs",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Dtos\\CreateFilmeDto.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Dtos\\CreateFilmeDto.cs",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Dtos\\CreateFilmeDto.cs",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Dtos\\CreateFilmeDto.cs",
               "RelativeToolTip": "FilmesAPI\\Dtos\\CreateFilmeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T18:41:57.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T18:41:57.627Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Filme.cs",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Models\\Filme.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Models\\Filme.cs",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Models\\Filme.cs",
               "RelativeToolTip": "FilmesAPI\\Models\\Filme.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:23:49.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T14:23:49.207Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FilmeController.cs",
-              "DocumentMoniker": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
+              "DocumentMoniker": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
-              "ToolTip": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
+              "ToolTip": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T14:19:06.633Z",
               "EditorCaption": ""

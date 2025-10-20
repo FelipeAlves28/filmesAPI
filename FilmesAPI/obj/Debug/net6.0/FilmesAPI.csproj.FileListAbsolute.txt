@@ -50,3 +50,4 @@ D:\Estudos\API\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Estudos\API\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 D:\Estudos\API\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
 D:\Estudos\API\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
+D:\Estudos\API\filmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.sourcelink.json

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {}
+    "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\FilmesAPI.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {
+    "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectUniqueName": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectPath": "D:\\Estudos\\API\\filmesAPI\\FilmesAPI\\FilmesAPI.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
         "outputPath": "D:\\Estudos\\API\\FilmesAPI\\FilmesAPI\\obj\\",
         "projectStyle": "PackageReference",
